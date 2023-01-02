@@ -110,7 +110,7 @@
                     <div class="row mt-2">
                         <div class="col-6">
                             <div class="card p-2">
-                                <div class="card-header text-white bg-primary">Alamat Pengiriman</div>
+                                <div class="card-header text-white bg-primary">Alamat Pengiriman Paket</div>
 
                                 <div class="card-body"></div>
                                 <a href="{{url('input_produk')}}" class="btn btn-sm text-white btn-info">Lihat</a>
@@ -119,7 +119,7 @@
 
                         <div class="col-6">
                             <div class="card p-2">
-                                <div class="card-header text-white bg-primary">Status Pengiriman</div>
+                                <div class="card-header text-white bg-primary">Status Pengiriman Paket</div>
 
                                 <div class="card-body"></div>
                                 <a href="{{url('report_produk')}}" class="btn btn-sm text-white btn-warning">Lihat</a>
